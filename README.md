@@ -20,9 +20,13 @@ BlogitUp is a blog website using react and node.js and is made as our project fo
 5.	Editing and deleting posts
 6.	Editing user information
 
-<img src="https://github.com/Mayank7832/Images-resizing/blob/main/Mainscreen.jpeg" width="450" height = "300" />  <img src="https://github.com/Mayank7832/Images-resizing/blob/main/Profile.jpeg" width="450" height = "300" />
-<img src="https://github.com/Mayank7832/Images-resizing/blob/main/blog1.jpeg" width="450" height = "300" /> <img src="https://github.com/Mayank7832/Images-resizing/blob/main/blog2.jpeg" width="450" height = "300" />
-<img src="https://github.com/Mayank7832/Images-resizing/blob/main/blog3.jpeg" width="450" height = "300" /> <img src="https://github.com/Mayank7832/Images-resizing/blob/main/blog4.jpeg" width="450" height = "300" />
+<img src="https://github.com/Mayank7832/Images-resizing/blob/main/Mainscreen.jpeg" width="450" height = "300" />    <img src="https://github.com/Mayank7832/Images-resizing/blob/main/Profile.jpeg" width="450" height = "300" />
+
+
+<img src="https://github.com/Mayank7832/Images-resizing/blob/main/blog1.jpeg" width="450" height = "300" />   <img src="https://github.com/Mayank7832/Images-resizing/blob/main/blog2.jpeg" width="450" height = "300" />
+
+
+<img src="https://github.com/Mayank7832/Images-resizing/blob/main/blog3.jpeg" width="450" height = "300" />   <img src="https://github.com/Mayank7832/Images-resizing/blob/main/blog4.jpeg" width="450" height = "300" />
 
 
 
