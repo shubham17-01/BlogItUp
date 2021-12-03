@@ -20,7 +20,7 @@ BlogitUp is a blog website using react and node.js and is made as our project fo
 5.	Editing and deleting posts
 6.	Editing user information
 
-<img src="https://github.com/Mayank7832/Images-resizing/blob/main/Mainscreen.jpeg" width="300" height = "450" />
+<img src="https://github.com/Mayank7832/Images-resizing/blob/main/Mainscreen.jpeg" width="450" height = "300" />
 
 ## Technologies used:
 1.	React.js and Node.js
