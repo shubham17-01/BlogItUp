@@ -2,6 +2,16 @@
 
 BlogitUp is a blog website using react and node.js and is made as our project for the subject MERN Stack for the year 2021/22. It is our project for our Sem 6 in third year of engineering. We were able to learn a lot of concepts through this project and faced quite a lot of challenges too. In the end we were able to successfully complete the project but a few of our goals were left unaccomplished.
 
+## How to run
+1.	Clone the repository
+2.	In the terminal navigate to api
+3.	npm install
+4.	Split the terminal
+5.	In the terminal navigate to client
+6.	npm install
+7.	yarn start both api and client
+8.	The blog site should start running in your browser
+
 ## Functionalities:
 1.	Login and Registration
 2.	Writing blog posts
